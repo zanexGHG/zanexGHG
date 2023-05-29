@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**zanexGHG/zanexGHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">👋 Hi there! I'm zanexGHG <br> 👀 I’m interested in coding minecraft plugins/mods (java) <br> 📫 You can contact me over discord: zanex#0001 <br> ✨ My own Website: https://www.mc-znx.net/</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+  <a href="https://github.com/zanexGHG">
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"/>
+  </a>
+</p>
+<!---
+zanexGHG/zanexGHG is a very ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
