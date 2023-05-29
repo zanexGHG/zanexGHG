@@ -5,7 +5,7 @@
 
 <p align="center">  
   <a href="https://github.com/zanexGHG">
-    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"/>
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background"/>
   </a>
 </p>
 <!---
