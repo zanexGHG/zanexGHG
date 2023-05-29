@@ -5,7 +5,7 @@
 
 <p align="center">  
   <a href="https://github.com/zanexGHG">
-    <img alt="GitHub Stats" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)"/>
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0"/>
   </a>
 </p>
 <!---
