@@ -1,5 +1,5 @@
 
-<p align="center">👋 Hi there! I'm zanexGHG <br> 👀 I’m interested in coding minecraft plugins/mods (java) <br> 📫 You can contact me over discord: zanex#0001 <br> ✨ My own Website: https://zanex.dev/</p>
+<p align="center">👋 Hi there! I'm zanexGHG <br> 👀 I’m interested in coding minecraft plugins in java and more... <br> 📫 You can contact me over discord: @zanexGHG <br> ✨ My own Website: https://zanex.dev/</p>
 
 <br>
 
