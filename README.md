@@ -4,7 +4,6 @@
 <br>
 
 <p align="center">  
-  <a href="https://github.com/zanexGHG">
-    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zanexghg&theme=black-ice&fire=EB9779&ring=B4B4B4A5&currStreakNum=B4EBA3&background=EBEBEB00&border=EBEBEB00&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=A5BDEB" alt="GitHub Streak" />
   </a>
 </p>
