@@ -4,5 +4,5 @@
 <br>
 
 <p align="center">  
-  ![zanexghg's Stats](https://github-readme-stats.vercel.app/api?username=zanexghg&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+  <img src="https://streak-stats.demolab.com?user=zanexghg&theme=midnight-purple&hide_border=false" alt="zanexghg's GitHub Stats" />
 </p>
