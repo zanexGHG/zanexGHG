@@ -4,6 +4,5 @@
 <br>
 
 <p align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zanexghg&theme=black-ice&fire=EB9779&ring=B4B4B4A5&currStreakNum=B4EBA3&background=EBEBEB00&border=EBEBEB00&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=A5BDEB" alt="GitHub Streak" />
-  </a>
+  ![zanexghg's Stats](https://github-readme-stats.vercel.app/api?username=zanexghg&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 </p>
