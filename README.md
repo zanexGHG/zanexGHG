@@ -11,8 +11,6 @@
   </a>
 </div>
 
----
-
 ## 🚀 About Me  
 
 - 🎮 Focused on **Minecraft / Web development** using Java, PHP, JavaScript, HTML, CSS, and more  
