@@ -53,8 +53,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">  
-    <img src="https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple" alt="GitHub Streak" />
 </p>
 
 ## Contact me
