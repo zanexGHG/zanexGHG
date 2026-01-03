@@ -13,7 +13,7 @@
 
 ## 🚀 About Me  
 
-- 🎮 Focused on **Minecraft / Web development** using Java, PHP, JavaScript, HTML, CSS, and more  
+- 🎮 Focused on **Application / Game development** using Java, OpenGL, PHP, JavaScript, HTML, CSS, and more  
 - 💻 Full-stack developer with a passion for *funny code* (that nobody understands, of course 😅)  
 
 
@@ -25,7 +25,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-round&logo=c#&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-round&logo=php&logoColor=white)
 <br>
@@ -33,38 +33,42 @@
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-030712?style=flat-square&logo=tailwindcss&logoColor=blue)
 
 ### Backend
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-round&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-151515?style=flat-round&logo=laravel&logoColor=orange)
 
 
-## Databases
+### Graphics
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=lat-round&logo=opengl)
+
+### Databases
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-round&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-003545?style=flat-round&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-095779?style=flat-round&logo=mysql&logoColor=white)
 
 ### Utility
 ![Docker](https://img.shields.io/badge/-Docker-1D63ED?style=flat-round&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/-Notion-ffffff?style=flat-round&logo=notion&logoColor=black)
+![Notion](https://img.shields.io/badge/-Notion-ffffff?style=flat-round&logo=notion&logoColor=black)
 
 
 ### Systems
 ![Gentoo](https://img.shields.io/badge/-Gentoo-8968A4?style=flat-round&logo=gentoo&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-round&logo=linux&logoColor=black)
+![MacOS](https://img.shields.io/badge/-MacOS-ffffff?style=flat-round&logo=apple&logoColor=black)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zanexGHG&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"" alt="GitHub Streak" />
 </p>
 
 ## Contact me
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://zanex.dev/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logoColor=white)](https://zanex.dev/)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zanexghg) 
 <br>
 Discord: @zanexGHG
 
 </div>
-
----
