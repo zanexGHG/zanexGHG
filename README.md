@@ -59,21 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=zanexGHG&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=zanexGHG&hide_border=true&include_all_commits=false&count_private=false"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=zanexGHG&hide_border=true&include_all_commits=false&count_private=false"
-      alt="GitHub Stats"
-    />
-  </picture>
-</p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zanexGHG&hide_border=true&include_all_commits=false&count_private=false" alt="Github Stats" />
+</a>
 
 ## Contact me
 <div align="center">
