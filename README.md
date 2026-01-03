@@ -59,12 +59,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zanexGHG&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"" alt="GitHub Streak" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=zanexGHG&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=zanexGHG&hide_border=true&include_all_commits=false&count_private=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=zanexGHG&hide_border=true&include_all_commits=false&count_private=false"
+      alt="GitHub Stats"
+    />
+  </picture>
 </p>
 
 ## Contact me
-
-<div align="center">
   
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logoColor=white)](https://zanex.dev/)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zanexghg) 
