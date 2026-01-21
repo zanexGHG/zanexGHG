@@ -58,9 +58,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zanexGHG&hide_border=true&include_all_commits=false&count_private=false" alt="Github Stats" />
-</a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple" alt="GitHub Streak" /></a>
 
 ## Contact me
 <div align="center">
