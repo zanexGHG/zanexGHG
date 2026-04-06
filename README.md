@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 
-<a align="center"><img src="[https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple](https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple&hide_border=tru)" alt="GitHub Streak" /></a>
+<a align="center"><img src="https://streak-stats.demolab.com?user=zanexGHG&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
 
 ## Contact me
 <div align="center">
